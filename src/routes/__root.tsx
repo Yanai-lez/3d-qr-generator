@@ -10,7 +10,7 @@ import '../styles.css'
 
 const base = import.meta.env.BASE_URL
 // Share previews (WhatsApp, Telegram, etc.) need an absolute image URL.
-const shareImage = 'https://lezyanai-lab.github.io/3d-qr-generator/og-image.png'
+const shareImage = 'https://yanai-lez.github.io/3d-qr-generator/og-image.png'
 
 // Runs before first paint: applies saved theme + language (no flash), and keeps the
 // browser's "install app" prompt so the Install button can use it later.
